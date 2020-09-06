@@ -1,6 +1,6 @@
 # Licorne Magique, un compte merveilleux
 
-⚡ Vous trouverez ici une compilation des meilleurs cours de DUT et Licence informatique de Lyon 1
+⚡ Vous trouverez ici une compilation des meilleurs cours de DUT, de Licence et de Master informatique de Lyon 1 !
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LicorneMagique&show_icons=true&hide_border=true&title_color=24292e&icon_color=30a14e)
 
